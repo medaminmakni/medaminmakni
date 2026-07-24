@@ -1,49 +1,43 @@
-# Hi, I'm Mohamed Amin MAKNI 👋
+# Mohamed Amin MAKNI
 
-**Software Engineer** specializing in **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **Blockchain Technologies**.
+**AI Engineer · Software Engineer**
 
-- 🤖 **Focus:** Natural Language Processing, Intelligent Systems, Multimodal AI, and Decentralized Applications
-- 🔗 **Recent Work:** Full-Stack development with Hedera DLT (Blockchain) (Node.js, PostgreSQL, Docker) at Altavo Partners
-- 💡 **Interests:** Research-driven problem-solving, AI innovation, and real-world system development
+I build complete intelligent applications across computer vision, document intelligence, RAG, LLMs, and agent systems—from dataset preparation and model evaluation to backend integration, business validation, and software delivery.
 
-## 🛠️ Tech Stack
+- Based in Sfax, Tunisia
+- National Engineering Degree in Computer Engineering, IIT
+- Specialization in Software Engineering and Business Intelligence
+- Graduated on 18 July 2026
 
-**AI & Machine Learning:**  
-TensorFlow • PyTorch • scikit-learn • Pandas • NumPy • Matplotlib • YOLO • NLP • Generative Models
+## Selected work
 
-**Blockchain:**  
-Hedera Hashgraph • Hedera SDK • Smart Contracts • Distributed Ledger Technology
+### OptiFlow Precal Insight
 
-**Backend:**  
-Node.js • Express • Laravel • Spring Boot • PostgreSQL • REST APIs
+AI and software engineering graduation project developed at **Essilor SIVO (EssilorLuxottica)**. The confidential system combines document detection, classification, OCR, business rules, confidence scoring, and human review for PRECAL form processing.
 
-**Frontend:**  
-Angular • Next.js • Vue.js • TypeScript • Interactive Web Applications
+### [SmartWarehouse AI](https://github.com/xAminxxx/smartWareHouse)
 
-**DevOps & Tools:**  
-Docker • Git • CI/CD • Linux
+Logistics platform combining a FastAPI backend, Next.js interface, YOLO and Gemini vision, a ChromaDB-backed RAG engine, MySQL, and Docker.
 
-**Languages:**  
-Python • JavaScript • PHP • Java • C
+### Intelligent Online Classroom
 
-## 📊 GitHub Stats
+Multimodal learning application combining synchronized quiz and webcam data, YOLO-based face detection, expression analysis, and NLP interaction.
 
-![Mohamed Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAminxxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## Engineering stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xAminxxx&layout=compact&theme=tokyonight&hide_border=true)
+- **Applied AI:** Python, PyTorch, TensorFlow, YOLO, OCR, model evaluation
+- **Generative AI:** RAG, LLMs, intelligent agents, ChromaDB
+- **Backend and data:** FastAPI, Node.js, REST APIs, PostgreSQL, MySQL, MongoDB
+- **Web:** Next.js, React, Angular, Vue.js, TypeScript
+- **Delivery:** Docker, Linux, Git, GitHub
 
-## 🏆 Certifications
+## Certifications
 
-- 🔐 **Information Technology Security (ITS) – Python** 
-- 🤖 **Information Technology Security (ITS) – AI** 
+- Certiport Information Technology Specialist — Artificial Intelligence · 889/1000
+- Certiport Information Technology Specialist — Python · 880/1000
 
-## 🌐 Connect With Me
+## Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/makni-med-amin)
-- 📧 [Email](mailto:mki.medamin@gmail.com)
-- 📱 Phone: +216 52 855 085
-
----
-
-💡 **Open to PFE internship opportunities** in AI/ML, NLP, Intelligent Systems, and Blockchain Development!  
-🎯 Actively seeking challenges in research-driven innovation and real-world AI applications.
+- [Portfolio](https://med-amin-makni.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/makni-med-amin/)
+- [Email](mailto:mki.medamin@gmail.com)
