@@ -7,7 +7,6 @@ I build complete intelligent applications across computer vision, document intel
 - Based in Sfax, Tunisia
 - National Engineering Degree in Computer Engineering, IIT
 - Specialization in Software Engineering and Business Intelligence
-- Graduated on 18 July 2026
 
 ## Selected work
 
