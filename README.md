@@ -14,7 +14,7 @@ I build complete intelligent applications across computer vision, document intel
 
 AI and software engineering graduation project developed at **Essilor SIVO (EssilorLuxottica)**. The confidential system combines document detection, classification, OCR, business rules, confidence scoring, and human review for PRECAL form processing.
 
-### [SmartWarehouse AI](https://github.com/xAminxxx/smartWareHouse)
+### [SmartWarehouse AI](https://github.com/medaminmakni/smartWareHouse)
 
 Logistics platform combining a FastAPI backend, Next.js interface, YOLO and Gemini vision, a ChromaDB-backed RAG engine, MySQL, and Docker.
 
