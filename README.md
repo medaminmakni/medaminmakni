@@ -36,11 +36,11 @@ Final-year engineering project: a document-intelligence pipeline combining YOLO1
 
 ## Stack
 
--**Machine learning** — Python, PyTorch, TensorFlow, deep learning, NumPy, pandas, scikit-learn, model evaluation
--**Computer vision** — YOLO, YOLO11, EfficientNetV2, OCR, TrOCR, object detection
--**Generative AI & NLP** — LLMs, RAG, AI agents, transformers, natural language processing, ChromaDB, vector databases, embeddings
--**Backend & cloud** — FastAPI, Node.js, NestJS, REST APIs, SQL, PostgreSQL, MySQL, MongoDB, Google Cloud (Firebase, Cloud Functions, Firestore)
--**Delivery** — Docker, Linux, Git, CI/CD, Agile/Scrum, unit testing, TypeScript, Next.js, React, React Native
+- **Machine learning** — Python, PyTorch, TensorFlow, deep learning, NumPy, pandas, scikit-learn, model evaluation
+- **Computer vision** — YOLO, YOLO11, EfficientNetV2, OCR, TrOCR, object detection
+- **Generative AI & NLP** — LLMs, RAG, AI agents, transformers, natural language processing, ChromaDB, vector databases, embeddings
+- **Backend & cloud** — FastAPI, Node.js, NestJS, REST APIs, SQL, PostgreSQL, MySQL, MongoDB, Google Cloud (Firebase, Cloud Functions, Firestore)
+- **Delivery** — Docker, Linux, Git, CI/CD, Agile/Scrum, unit testing, TypeScript, Next.js, React, React Native
 
 ## Certifications
 
