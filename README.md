@@ -34,6 +34,12 @@ A logistics agent deciding gate assignment from plate recognition, separating fa
 
 Final-year engineering project: a document-intelligence pipeline combining YOLO11 field detection, EfficientNetV2-S classification, TrOCR and GLM-OCR recognition, business rules and human review. Confidential, so no code or screenshots.
 
+### Hex-Port — blockchain trade finance *(Altavo Partners, team of five)*
+
+A trade-finance platform for African exporters where a bank arbitrates a three-party escrow on Hedera. I built the bank and arbiter side: KYC review, document validation, dispute handling, and the approvals that release escrowed payment in two tranches, on shipment and on delivery — the functions the Solidity contract gates behind `onlyArbiter`.
+
+Every order state change is written to a Hedera Consensus Service topic, so the audit trail is independently verifiable rather than something the platform asserts. [Demo](https://www.youtube.com/watch?v=F2wRcFhlHmg)
+
 ## Stack
 
 - **Machine learning** — Python, PyTorch, TensorFlow, deep learning, NumPy, pandas, scikit-learn, model evaluation
