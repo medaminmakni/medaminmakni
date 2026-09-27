@@ -2,7 +2,7 @@
 
 **AI Engineer · Software Engineer** — Sfax, Tunisia
 
-I build systems that have to be right in operation, not only in evaluation.
+I build systems that have to be right in production, not only in evaluation.
 
 That distinction is most of what I do. A detector that scores 95% mAP@50 and a document pipeline a business can run on are different achievements, and the gap between them is where the engineering lives: confidence thresholds, human review paths, business rules, and tests for the parts that decide whether the system can be trusted.
 
